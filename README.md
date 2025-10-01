@@ -28,9 +28,10 @@ pip install -r requirements.txt
 
 2. **guardrail_output.py =>**  This example shows how we make a guard-rails type to format output from gpt, validating with pydantic
 
-3. **guardrail_block_alucination =>** This example shows hoe we make a guard-rails type to protect our app from alucination
+3. **guardrail_block_alucination =>** This example shows how we make a guard-rails type to protect our app from alucination
 
 To execute the examples, execute:
+
 1.
 ```
 python ai_chat_console_example.py

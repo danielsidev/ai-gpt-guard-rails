@@ -14,7 +14,7 @@ export OPENAI_API_KEY='my_open_ai_api_key'
 python -m venv venv && source venv/bin/activate
 ```
 
-### Load Depencies from requirements.txt*
+### Load Dependecies from requirements.txt*
 
 ```
 pip install -r requirements.txt
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 2. **guardrail_output.py =>**  This example shows how we make a guard-rails type to format output from gpt, validating with pydantic
 
-3. **guardrail_block_alucination => ** This example shows hoe we make a guard-rails type to protect our app from alucination
+3. **guardrail_block_alucination =>** This example shows hoe we make a guard-rails type to protect our app from alucination
 
 To execute the examples, execute:
 1.

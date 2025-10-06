@@ -2,6 +2,9 @@
 
 A example ofhow we can connect with open ai with python and how we can create some types of guard rails for  protect our app of alucination
 
+![OpenAI API](https://img.shields.io/badge/OpenAI-API-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ### First, we need export our open ai api key as an environment variable
 
 ```
